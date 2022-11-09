@@ -5,3 +5,4 @@ module.exports = {
   divide: (a, b) => a / b,
 };
 //adding feature 2
+let feature2 ="adding feature 2"
