@@ -4,4 +4,4 @@ module.exports = {
   multiply: (a, b) => a * b,
   divide: (a, b) => a / b,
 };
-//adding feature 2
+ //adding feature 2
