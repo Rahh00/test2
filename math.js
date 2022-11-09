@@ -4,3 +4,5 @@ module.exports = {
   multiply: (a, b) => a * b,
   divide: (a, b) => a / b,
 };
+Const text1 = “adding feature1”
+
