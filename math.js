@@ -6,3 +6,4 @@ module.exports = {
 };
 
 // adding feature 3
+let feature3 = "adding feature 3"
