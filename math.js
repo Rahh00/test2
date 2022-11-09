@@ -4,8 +4,8 @@ module.exports = {
   multiply: (a, b) => a * b,
   divide: (a, b) => a / b,
 };
-
-
+//adding feature 2
+let feature2 ="adding feature 2"
 // adding feature 3
 let feature3 = "adding feature 3
 //adding feature 1
